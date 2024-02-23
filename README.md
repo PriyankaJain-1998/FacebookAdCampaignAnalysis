@@ -7,7 +7,7 @@ STEP 1: Install the required libraries
         - pip install -r requirements.txt 
 
 STEP 2: After installation, simply by executing the command 
-         - python main.py
+         - <b>python main.py</b>
         python code should run, displaying the plots for prediction vs ground truth. 
         
      
